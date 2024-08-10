@@ -18,10 +18,10 @@ Modern computers rely on transistors, which pack millions of tiny switches into 
 
 * A Bit is a binary digit with two possible values, zero or one
 * A Byte is a sequence of 8 bits and has 256 possible values from 00000000 through 11111111
-* A kilobyte (kB) is 1,024 bytes or 2^10 bytes
-* A Megabyte (MB) is 1,048, 576 bytes or 2^20 bytes
-* A Gigabyte (GB) is 1,073,741,824 bytes or 2^30 bytes
-* A Terabyte (TB) is 1,099,511,627,776 bytes or 2^40 bytes
+* A kilobyte (kB) is 1,024 bytes or 2^10 bits
+* A Megabyte (MB) is 1,048, 576 bytes or 2^20 bits
+* A Gigabyte (GB) is 1,073,741,824 bytes or 2^30 bits
+* A Terabyte (TB) is 1,099,511,627,776 bytes or 2^40 bits
 	
 ## Notes 
 
